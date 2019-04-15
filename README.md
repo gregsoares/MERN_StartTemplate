@@ -6,7 +6,8 @@
   ## MERN - MongoDB ExpressJs ReactJs NodeJs 
   
   - ### Client Side: 
-     * @fortawesome/fontawesome - Fonts Icons and Brands Bootstrap 
+     * @fortawesome/fontawesome - Fonts Icons and Brands 
+     * Bootstrap 
      * http-proxy-middleware 
      * react-router-dom reactstrap 
   - ### Server Side: 
