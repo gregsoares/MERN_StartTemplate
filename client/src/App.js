@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import { Button } from 'reactstrap';
 import logo from './logo.svg';
 import './App.css';
-
 
 class App extends Component {
   render() {
@@ -21,9 +19,6 @@ class App extends Component {
           >
             Learn React
           </a>
-          
-          <Button color="danger">ReactStrap On</Button>
-          
         </header>
       </div>
     );

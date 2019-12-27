@@ -31,15 +31,5 @@ mongoose
   .connect(db, { useNewUrlParser: true })
   .then(() => console.log('MongoDB Connected'))
   .catch(err => console.log('\nMongoDB ERROR - Connection acting up!\n'));
-
-// Importing Routes
-// const usersRouter = require('./routes/api/users');
-// const profileRouter = require('./routes/api/profile');
-// const postsRouter = require('./routes/api/posts');
-
-// app.use('/api/users', usersRouter);
-// app.use('/api/profile', profileRouter);
-// app.use('/api/posts', postsRouter);
-
-
+  
 module.exports = app;
