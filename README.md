@@ -3,9 +3,13 @@ Most barebones MongoDB, ExpressJs, ReactJs and NodeJs starter template setup.
 
 ##  Install Instructions:
 /MERN_STARTTEMPLATE/Client$ npm install
+
 /MERN_STARTTEMPLATE/Client$ cd ../
+
 /MERN_STARTTEMPLATE$ npm install
+
 /MERN_STARTTEMPLATE/Client$ npm run dev
+
 
 ## Screenshots:
 
