@@ -1,14 +1,14 @@
 # Full MERN Stack Starter Template (Heroku Deployment)
-Most barebones MongoDB, ExpressJs, ReactJs and NodeJs starter template setup.
+**Full Stack: MongoDB, ExpressJs, ReactJs and NodeJs starter template setup.**
 
 ##  Install Instructions:
-/MERN_STARTTEMPLATE/Client$ npm install
+##### /mern_starttemplate/client$ **npm install**
 
-/MERN_STARTTEMPLATE/Client$ cd ../
+##### /mern_starttemplate/client$ **cd ../**
 
-/MERN_STARTTEMPLATE$ npm install
+##### /mern_starttemplate$ **npm install**
 
-/MERN_STARTTEMPLATE/Client$ npm run dev
+##### /mern_starttemplate$ **npm run dev**
 
 
 ## Screenshots:
