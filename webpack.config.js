@@ -9,7 +9,7 @@ module.exports = {
     mode: 'development',
     module: {
       rules: {
-        test: /\.jsx?/,
+        test: /\.js?/,
         exclude: /node_module/,
         loader: 'babel-loader',
         query: {
