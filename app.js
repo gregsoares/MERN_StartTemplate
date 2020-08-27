@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: false }));
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, "client", "build")));
 
-  app.get("/", function (req, res) {
+  app.get("/*", function (req, res) {
     res.sendFile(path.join(__dirname, "client", "build", "index.html"));
   });
 } else {
@@ -27,10 +27,9 @@ if (process.env.PORT) {
 
 // Routers
 // import someRouter from './routers/someRoutes.js';
-app.get('/someRoute', function (req, res) {
-  res.send('Function to execute someRouter router')
-})
-
+app.get("/someRoute", function (req, res) {
+  res.send("Function to execute someRouter router");
+});
 
 // Connecting to MongoDB
 mongoose
