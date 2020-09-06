@@ -1,17 +1,20 @@
 # [Full MERN Stack Starter Template (Heroku Deployment)](https://mernsite.herokuapp.com/)
+
 **Full Stack: MongoDB, ExpressJs, ReactJs and NodeJs starter template setup.**
 
 #### (Heroku Deployment ready)
 
-##  Install Instructions:
-##### /mern_starttemplate/client$ **npm install**
+## Install Instructions:
 
-##### /mern_starttemplate/client$ **cd ../**
+**Inside /MERN_StartTemplate/client/:**
 
-##### /mern_starttemplate$ **npm install**
+##### \$ **npm install**
 
-##### /mern_starttemplate$ **npm run dev**
+##### \$ **cd ../**
 
+##### \$ **npm install**
+
+##### \$ **npm run dev**
 
 ## Screenshots:
 
@@ -19,13 +22,14 @@
 ![Server-Side App.js](https://i.ibb.co/ns3rNxP/server-app.png)
 ![Server running](https://i.ibb.co/ZdBNL0P/MERN-Start.png)
 
-# Installed Dependencies: 
-  ## MERN - MongoDB ExpressJs ReactJs NodeJs 
-  
-  - ### Client Side: 
-     * create-react-app
-  - ### Server Side: 
-     * concurrently 
-     * express 
-     * mongoose 
-     * path
+# Installed Dependencies:
+
+## MERN - MongoDB ExpressJs ReactJs NodeJs
+
+- ### Client Side:
+  - create-react-app
+- ### Server Side:
+  - concurrently
+  - express
+  - mongoose
+  - path
